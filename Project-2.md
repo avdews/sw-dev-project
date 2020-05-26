@@ -6,7 +6,7 @@ The project assignment is to develop a [jupyter notebook](https://jupyter.org/) 
 
 It is expected that the project would require approximately 4 hours of effort.  The output will be a single jupyter notebook that will be shared with us via a [Binder](https://mybinder.org/) link to an executable version of the notebook.  The notebook should include any necessary documentation to describe the subject of the query and the steps involved in going from your general idea to the generated output.  The [included example](wikidata-example.ipynb) can be used for general guidance.
 
-## Porject specific background
+## Project specific background
 
 ### Wikidata
 
