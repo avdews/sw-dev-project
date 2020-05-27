@@ -81,6 +81,6 @@ After the project notebook has been completed don't forget to push the finished 
 
 In the forked repository update the URL associated with this Binder button to reflect your Github account.  Replace `JSTOR-Labs` with your account name.  This button is useful for launching the entire repository in Binder with executable notebooks.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JSTOR-Labs/sw-dev-project/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/avdews/sw-dev-project/master)
 
 This updated URL is also the link to share with us after the project has been completed.

@@ -1,2 +1,6 @@
 requests
 matplotlib
+geopandas
+pandas
+shapely
+csv
