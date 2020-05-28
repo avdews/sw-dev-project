@@ -1,5 +1,6 @@
 requests
 matplotlib
+decartes
 geopandas
 pandas
 shapely
